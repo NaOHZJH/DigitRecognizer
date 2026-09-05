@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments / tool caches
+_venv/
+venv/
+.venv/
+.dsh-pyenv/
+.env/
+
+# Dataset & large binary artifacts
+data/
+model_params.npz
+test_preview.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
